@@ -1,0 +1,11 @@
+package binary.search.game.exceptions;
+
+public class GameLostException {
+
+	public GameLostException(String string) {
+		// TODO Auto-generated constructor stub
+		private static final long serialVersionUID = 1L;
+		super();
+	}
+
+}

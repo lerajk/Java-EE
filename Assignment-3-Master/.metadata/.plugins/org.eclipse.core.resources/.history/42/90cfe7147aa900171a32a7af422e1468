@@ -1,0 +1,10 @@
+package binary.search.game.exceptions;
+
+public class GameLostException {
+
+	public GameLostException(String string) {
+		// TODO Auto-generated constructor stub
+		super();
+	}
+
+}
