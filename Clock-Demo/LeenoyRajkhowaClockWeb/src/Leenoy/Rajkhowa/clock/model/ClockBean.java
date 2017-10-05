@@ -1,6 +1,6 @@
 package Leenoy.Rajkhowa.clock.model;
 
-import java.sql.Date;
+import java.util.Date;
 import java.text.DateFormat;
 import java.util.Calendar;
 import java.util.Locale;
